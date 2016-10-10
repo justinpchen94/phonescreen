@@ -2,6 +2,7 @@
 
 * `typeof bar === "object"` is a reliable way of checking if `bar` is an object, but in JavaScript `null` is also considered an object.
   * ```var bar = null;
+  
   console.log(typeof bar === "object");  // logs true!```
 
 
