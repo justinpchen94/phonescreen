@@ -7,7 +7,7 @@ Functional programming is an essential concept in JavaScript (one of the two pil
   * Simple function composition.
   * Examples of functional languages: Lisp, ML, Haskell, Erlang, Clojure, Elm, F Sharp, OCaml, etc…
   * Mention of features that support FP: first-class functions, higher order functions, functions as arguments/values.
-Red flags:
+* Red flags:
   * No mention of pure functions / avoiding side-effects.
   * Unable to provide examples of functional programming languages.
   * Unable to identify the features of JavaScript that enable FP.
