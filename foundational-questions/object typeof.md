@@ -19,7 +19,7 @@ _Note: above code snippet will return `true` if `bar` is a function. Make sure t
 console.log((bar !== null) && ((typeof bar === "object") || (typeof bar === "function")));
 ```
 
-_Note: the above snippet will also return `true` if `bar` is an array. If this is not desired, this is an example workaround: _
+_Note: the above snippet will also return `true` if `bar` is an array. If this is not desired, this is an example workaround:_
 
 ```javascript
 console.log((bar !== null) && (typeof bar === "object") && (toString.call(bar) !== "[object Array]"));
