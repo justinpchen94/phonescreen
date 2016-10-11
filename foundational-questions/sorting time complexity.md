@@ -1,7 +1,6 @@
 # What is the time complexity of (any of) the following algorithms:
 
-* Mergesort: `O(n log(n))`
-
+Choose a couple to askm
 
 Sorting Algo | Best | Average | Worst
 ------------ | ------------- | ------------- | -------------
